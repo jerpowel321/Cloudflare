@@ -1,0 +1,6 @@
+name = "intern-take-home-assignment"
+type = "webpack"
+account_id = "20d49e73444e681c88d73fb19c2c3ece"
+workers_dev = true
+route = ""
+zone_id = ""
